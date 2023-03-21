@@ -5,7 +5,7 @@
 Hello everyone! 
 
 This is my take on the Python for Finance Cookbook (2. ed.) technical analysis from Eryk Lewinson in Streamlit.
-I added also a help section, which runs with the OpenAI model "text-davinci-003" and added new technical analysis features.
+I added also a help section, which runs with the OpenAI model "text-davinci-003" and added further technical analysis features.
 
 There is definitely room for improvement. If you have any suggestions, just let me know 😄 
 
