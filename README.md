@@ -7,7 +7,7 @@ Hello everyone!
 This is my take on the Python for Finance Cookbook (2. ed.) technical analysis from Eryk Lewinson in Streamlit.
 I added also a help section, which runs with the OpenAI model "text-davinci-003" and added new technical analysis features.
 
-There is definitely room for improvement. If you have any suggestions, just let me know :) 
+There is definitely room for improvement. If you have any suggestions, just let me know 😄 
 
 ---------------------------------------------------------------------------------------------
 ## What can you do with it?
@@ -17,7 +17,7 @@ There is definitely room for improvement. If you have any suggestions, just let 
 * Select different technical analysis metrics with different parameters
 * Ask questions in the help section
 
-**Important**: This should not be used to buy or sell stocks. 
+**Important**: This should definitley be clear, but you should not use this tool to buy or sell stocks. 
 
 
 You can see the App with following link: https://mariamaydl-simple-technical-analysis-main-42mc9t.streamlit.app/
